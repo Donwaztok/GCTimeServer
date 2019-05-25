@@ -1,0 +1,31 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'Rel'#243'gio'
+  ClientHeight = 29
+  ClientWidth = 59
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poDesigned
+  OnCreate = FormCreate
+  OnHide = FormHide
+  OnMouseDown = FormMouseDown
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 8
+    Top = 8
+    Width = 44
+    Height = 13
+    Caption = '00:00:00'
+    OnMouseDown = Label1MouseDown
+  end
+end

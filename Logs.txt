@@ -1,0 +1,31 @@
+//== Logs Existentes ==// - 12:08:19 - 04/12/2013
+XDataFI0.Xtp
+XData1113.Log
+XData1114.Log
+XData1116.Log
+XData1118.Log
+clientfilelist.txt
+crashlog.txt
+crashlogDS.txt
+DllList.txt
+FailedGameServerConnection.txt
+newver.xml
+log.htm
+crashdata.dat
+mailsmtp.dll
+images.kom
+grandchasebr.ini
+mailmime.dll
+//== Logs Excluidos_ ==// - 12:08:19 - 04/12/2013
+clientfilelist.txt
+crashlog.txt
+crashlogDS.txt
+DllList.txt
+FailedGameServerConnection.txt
+newver.xml
+log.htm
+crashdata.dat
+mailsmtp.dll
+images.kom
+grandchasebr.ini
+mailmime.dll
