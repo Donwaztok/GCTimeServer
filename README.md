@@ -16,7 +16,7 @@ Então desenvolvendo isso, resolvi colocar um sistema de aviso e o sistema de st
 Utilizar o modo Janela!
 
 
-![Controle](/Images/documents/controle.png)
+![Controle](/Images/documents/Controle.png)
 
 ![2](/Images/documents/2.png)
  
@@ -41,7 +41,7 @@ Outra maneira, é logar antes da Meia noite (00:00) e então quando tudo resetar
 
 
 
-![configurações](/Images/documents/configurações.png)
+![configurações](/Images/documents/Configurações.png)
 
 Aqui voce pode configurar as posiçoes das janelas, da maneira que desejar, selecionar a pasta do seu Grand Chase e tambem alterar a imagem que fica na parte de baixo do Aplicativo
 
@@ -64,7 +64,7 @@ Todos devem sabe como um limpador funciona.. caso não, confiram no tópico do c
 [[ERASE DATA] Limpador de Log's e Gc launcher att 28-02-2013](URL="http://www.webcheats.com.br/forum/grand-chase-downloads-de-cheats-hacks-utilitarios/2042453-erase-data-limpador-de-log-s-e-gc-launcher-att-28-02-2013-a.html")
 
  
-![status](/Images/documents/status.png)
+![status](/Images/documents/Status.png)
 
 Insira os seus atributos, para verificar seu "Status" (não duvidando do GC rs)
 E então será mostrado a quantidade de pontos que falta pra voce aumentar seu "Status".
@@ -75,7 +75,7 @@ Assim.
  
 
 
-![IMG](/Images/documents/bugs.png)
+![IMG](/Images/documents/Bugs.png)
 
 Sim, Infelizmente temos Bugs T-T
  
@@ -91,7 +91,7 @@ Removido:
 
 
 
-![IMG](/Images/documents/download.png)
+![IMG](/Images/documents/Download.png)
 
 **Github**
 
